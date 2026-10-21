@@ -1,6 +1,7 @@
 # Aaron Shaw · 个人网站
 
 静态个人网站，包含基本信息、实习经历、影像作品与学术汇报。
+https://dl-sx.github.io/-/
 
 ## 使用 GitHub Pages 发布
 
